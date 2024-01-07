@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi, I'm Oussama!
 
-<!--
-**Oussama1975/Oussama1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Full Stack Developer | 🌐 Web Enthusiast | 🚀 Tech Explorer
 
-Here are some ideas to get you started:
+### 📌 About Me
+Passionate about creating seamless and impactful digital experiences, I am a results-driven Full Stack Developer with a keen interest in both front-end and back-end technologies. My journey in the world of programming began with a curiosity to understand how things work, and it has evolved into a fulfilling career dedicated to crafting robust and user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+- **Frontend**: HTML, CSS, JavaScript, ReactJS
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, MySQL
+- **DevOps**: Docker
+- **Tools**: Git, VS Code, Jira
+
+### 📚 Education
+- Diploma in Digital Development, [ISTA TIZNIT], [2024]
+
+### 📫 Contact Me
+- 📧 Email: boulakhbaroussama@gmail.com
+- 🔗 LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- ✖️ Twitter: [Oussama 1975](https://twitter.com/OssamBou)
+
+### 🤝 Let's Connect!
+I'm always open to collaboration and new opportunities. Feel free to reach out if you share a passion for creating innovative solutions and pushing the boundaries of technology.
+
+Happy coding! 🚀
