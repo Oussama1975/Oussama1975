@@ -1,4 +1,4 @@
-<img align="center" alt="coding" src="https://github.com/Oussama1975/Oussama1975/assets/148590763/bd690685-4352-4001-8522-bf33c4f7386f.gif" >
+![Gitlogo](https://github.com/Oussama1975/Oussama1975/assets/148590763/dadbb2a7-007e-4ad3-bae3-8c2eec5e9c93)
 <h1 align="center" >Hi, I'm Oussama!</h1>
 
 ## 👨‍💻 Full Stack Developer | 🌐 Web Enthusiast | 🚀 Tech Explorer
