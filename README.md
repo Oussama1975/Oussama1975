@@ -17,7 +17,7 @@ Passionate about creating seamless and impactful digital experiences, I am a res
 
 ### 📫 Contact Me
 - 📧 Email: boulakhbaroussama@gmail.com
-- ✆ Phone: 0651374670
+- 📞 Phone: 0651374670
 - ✖️ Twitter: [Oussama 1975](https://twitter.com/OssamBou)
 
 
