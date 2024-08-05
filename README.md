@@ -19,6 +19,7 @@ Passionate about creating seamless and impactful digital experiences, I am a res
 - 📧 Email: boulakhbaroussama@gmail.com
 <!-- - ✖️ Twitter: [Oussama 1975](https://twitter.com/OssamBou)-->
 - <a href="https://twitter.com/ossambou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ossambou" height="30" width="40" /></a>
+- ✆ Phone: 0651374670
 
 
 
