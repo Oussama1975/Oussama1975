@@ -16,9 +16,9 @@ Passionate about creating seamless and impactful digital experiences, I am a res
 - Diploma in Digital Development, [ISTA TIZNIT], [2024]
 
 ### 📫 Contact Me
-- 📧 Email: boulakhbaroussama@gmail.com
-- 📞 Phone: 0651374670
-- ✖️ Twitter: [Oussama 1975](https://twitter.com/OssamBou)
+- 📧 **Email** : boulakhbaroussama@gmail.com
+- 📞 **Phone** : 0651374670
+- ✖️ **Twitter** : [Oussama 1975](https://twitter.com/OssamBou)
 
 
 
